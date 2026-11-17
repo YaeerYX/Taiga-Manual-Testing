@@ -35,6 +35,8 @@ I wrote and executed 449 test cases in Testiny across Google Chrome and Safari (
 
 Both browsers produced identical results.
 
+📂 **Full execution reports (all 449 test cases):** [Google Chrome](https://drive.google.com/file/d/1xu2bvsYxsiRAD4NzBkFi6wFrMsG7dWO6/view) · [Safari](https://drive.google.com/file/d/1NH4_RcmBUWWMZCo88fsUA7jReQOvAyIY/view)
+
 <p align="center">
   <img src="images/taiga-03-execution-results.png" alt="Combined execution results" width="500"><br><sub>Combined execution results: Chrome and Safari</sub>
 </p>
